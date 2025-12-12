@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_nav_home"
+        android:title="Главная" />
+    <item
+        android:id="@+id/nav_medications"
+        android:icon="@drawable/ic_nav_pill"
+        android:title="Медикаменты" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_nav_more"
+        android:title="Больше" />
+</menu>
+

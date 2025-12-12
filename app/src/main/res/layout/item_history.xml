@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <TextView
+        android:id="@+id/txtHistoryDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12.12"
+        android:textAppearance="?attr/textAppearanceBodySmall" />
+
+    <TextView
+        android:id="@+id/txtHistoryTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Тип"
+        android:textAppearance="?attr/textAppearanceBodyLarge" />
+
+    <TextView
+        android:id="@+id/txtHistoryDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Детали"
+        android:textAppearance="?attr/textAppearanceBodySmall" />
+</LinearLayout>
+

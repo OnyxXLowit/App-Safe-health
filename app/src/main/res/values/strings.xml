@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Chronic Monitor</string>
+    <string name="auth_title">Профиль</string>
+    <string name="auth_subtitle">Авторизуйтесь, чтобы синхронизировать расписания и уведомления в стиле Medisafe.</string>
+    <string name="login">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="welcome_guest">Вы не авторизованы</string>
+    <string name="welcome_user">Добро пожаловать, %1$s</string>
+    <string name="vitals_title">Последние показатели</string>
+    <string name="pulse_label">Пульс</string>
+    <string name="pressure_label">Давление</string>
+    <string name="next_med_title">Ближайший приём</string>
+    <string name="mood_title">Самочувствие</string>
+    <string name="mood_good">Хорошо</string>
+    <string name="mood_bad">Плохо</string>
+    <string name="schedule_title">Календарь приёма</string>
+    <string name="history_title">История</string>
+    <string name="reminders_title">Напоминания</string>
+    <string name="telegram_hint">Telegram уведомления о приёме лекарств</string>
+    <string name="critical_title">Критические показатели</string>
+    <string name="barcode_title">Сканировать упаковку</string>
+    <string name="reports_title">Отчёт врачу</string>
+    <string name="devices_title">Медицинские устройства</string>
+    <string name="action_scan">Сканировать</string>
+    <string name="action_generate_report">Сформировать отчёт</string>
+    <string name="action_send_telegram">Отправить тест</string>
+    <string name="action_add_reminder">Добавить напоминание</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="status_pending">Запланировано</string>
+    <string name="status_done">Принято</string>
+    <string name="status_skipped">Пропущено</string>
+</resources>
